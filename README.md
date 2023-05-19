@@ -1,4 +1,4 @@
-<h1 align="center">Exposing the model API in docker.</h1>
+<h1 align="center">Exposing the model API in Docker.</h1>
 
 ## Built With
 - Python
