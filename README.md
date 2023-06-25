@@ -6,7 +6,7 @@
 
 ## Libraries
 - Flask
-- numpy
+- NumPy
 
 
 ## Author
